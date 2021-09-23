@@ -1,0 +1,21 @@
+.registercontainer
+{
+  margin-top: 100px
+}
+.registerbox
+{
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+.header
+{
+  font-size: 27px;
+  /* text-decoration: underline; */
+  text-align: center;
+}
+.register
+{
+  text-align: center;
+  width: 100%;
+  display: inline-block;
+}
